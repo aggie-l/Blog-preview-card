@@ -13,18 +13,21 @@ Users should be able to:
 
 ### Screenshots
 
-- Desktop view: 
+- Desktop view:
+  
+<img width="801" alt="Screenshot 2024-04-25 at 20 15 11" src="https://github.com/aggie-l/Blog-preview-card/assets/142058426/2821f880-7393-45d3-83fc-a2b2de09f20a">
 
 __________________________________________________________________
 
 - Mobile && Active view:
 
+<img width="586" alt="Screenshot 2024-04-25 at 20 16 01" src="https://github.com/aggie-l/Blog-preview-card/assets/142058426/992e6d1d-98e9-43f6-a129-71fb56f73f5e">
 
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: ["https://github.com/aggie-l/Blog-preview-card.git"]
+- Live Site URL: ["https://blog-preview-card-fendm.netlify.app/"]
 
 ## My process
 
@@ -33,7 +36,6 @@ __________________________________________________________________
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-
 
 
 ### What I learned
